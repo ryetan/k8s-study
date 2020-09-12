@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-## k8s学习笔记
-## 测试测试
+# k8s学习笔记
+## [快速搭建k8s集群](https://github.com/ryetan/k8s-study/edit/master/docs/quickstart_k8s.md)
 
 You can use the [editor on GitHub](https://github.com/ryetan/k8s-study/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
